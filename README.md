@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hristo Kirilov</h1>
 
 <p align="center">
-  ![cat-computer](https://github.com/user-attachments/assets/9cd2fcbe-9df7-4628-847c-3e62c3a67b49)
+ <img src="https://user-images.githubusercontent.com/122636579/221299189-dba53a5e-93ab-4a3b-bb56-a1788eb5c28e.gif" alt="animated" />
 
 </p>
 
