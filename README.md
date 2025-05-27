@@ -4,6 +4,7 @@
   <img src="https://github.com/user-attachments/assets/138a3c09-2545-44ec-accf-db9ed9d2f445" width="900" height="500">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigbosa&label=Profile%20views&color=000000&style=flat&theme=github_dark" alt="bigbosa" /> </p>
 
  #
  - 🔭 I’m currently working on [Mr.Chat](https://github.com/BigBosa/mr_chat)
@@ -28,8 +29,10 @@
 
 #
 
+<h3 aling="left">My Stats:</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigbosa&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="bigbosa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hex1004&show_icons=true&locale=en&theme=github_dark" alt="hex1004" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bigbosa&show_icons=true&locale=en&theme=github_dark" alt="bigbosa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hex1004&theme=github_dark" alt="hex1004" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bigbosa&theme=github_dark" alt="bigbosa" /></p>
